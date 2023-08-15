@@ -1,4 +1,4 @@
 const featureNew = () => {
-    //Ini adalahh features Tebaru dari Kami
-    //Ini adalah tambahan Feature kedua
+    //Ini adalahh feature promo menarik
+    //Ini adalah tambahan feature menarik banget
 }
